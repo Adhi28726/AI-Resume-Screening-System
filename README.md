@@ -63,3 +63,6 @@ Future Enhancements:
 License:
 This project is developed for educational and portfolio purposes.
 
+Output:
+
+![Resume Screening App](resume-screening.png)
