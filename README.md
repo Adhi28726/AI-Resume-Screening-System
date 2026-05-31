@@ -1,4 +1,5 @@
 AI Resume Screening System
+
 Overview:
 AI Resume Screening System is a Python-based web application that helps recruiters analyze and rank resumes automatically. The system extracts text from uploaded PDF resumes and compares them with a job description using Natural Language Processing (NLP) techniques.
 
